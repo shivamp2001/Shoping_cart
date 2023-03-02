@@ -149,7 +149,7 @@ Make sure the userId in params and in JWT token match.
 Make sure the user exist
 Make sure the product(s) are valid and not deleted.
 Get product(s) details in response body.
-Response format
+Response format,
 On success - Return HTTP status 201. Also return the cart document. The response should be a JSON object like this
 On error - Return a suitable error message with a valid HTTP status code. The response should be a JSON object like this
 
